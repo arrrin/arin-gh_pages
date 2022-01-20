@@ -1,0 +1,7 @@
+@font-face {
+    font-family: titleFont;
+    src: url("../arin-gh_pages/Boostard Signature.ttf") format('truetype');
+  }
+h1 {
+    font-family: titleFont;
+}
